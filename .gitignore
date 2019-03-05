@@ -4,7 +4,7 @@
 *.test
 *.out
 node_modules
-_key/*
+_key/**
 node_modules/**
 DS_Store
 DS_Store/**
