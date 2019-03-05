@@ -1,0 +1,10 @@
+.idea
+.idea/**
+*.text
+*.test
+*.out
+node_modules
+key/**
+node_modules/**
+DS_Store
+DS_Store/**
